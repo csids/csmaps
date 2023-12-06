@@ -1,0 +1,13 @@
+pandoc: '2.5'
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  customization: customization.html
+  introduction: introduction.html
+  layout: layout.html
+  sf_interactive: sf_interactive.html
+last_built: 2023-12-06T17:37Z
+urls:
+  reference: https://www.csids.no/csmaps/reference
+  article: https://www.csids.no/csmaps/articles
+
